@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
-    <msapplication>
-      <title>
-        <square70x70logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_70x70.png">
-        <square150x150logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_150x150.png">
-        <square310x310logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_310x310.png">
-        <wide310x150logo src="https://github.com/LowPolyCube/LPR/blob/master/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_310x150.png">
-        </square310x150logo></wide310x310logo></square150x150logo></square70x70logo>
-        <TileColor>#ef4824</TileColor>
-      </tile>
-    </msapplication>
+  <msapplication>
+    <tile>
+      <square70x70logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_70x70.png">
+      <square150x150logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_150x150.png">
+      <wide310x150logo src="https://github.com/LowPolyCube/LPR/blob/master/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_310x150.png">
+      <square310x310logo src="https://cdn.rawgit.com/LowPolyCube/LPR/bf652c0b/Design%20Resources/Graphics/Icons/Windows%20Tile%20Icon/windows_tile_icon_310x310.png">
+      <tilecolor>#ef4824</tilecolor>
+    </square310x310logo></wide310x150logo></square150x150logo></square70x70logo></tile>
+  </msapplication>
 </browserconfig>
